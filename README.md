@@ -1,4 +1,4 @@
-<h1 align="center"> 🧪⚛️ Diabetes Prediction </h1>
+<h1 align="center"> ⚛️ Diabetes Prediction </h1>
 
 <p align="center">
    <img alt="Repository size" src="https://img.shields.io/github/repo-size/Wolf-gangSE/diabetes-prediction">
